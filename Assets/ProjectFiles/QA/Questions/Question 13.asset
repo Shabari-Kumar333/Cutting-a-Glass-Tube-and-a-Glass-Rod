@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d01fd2d64a9249049aaa77d5c12a82fe, type: 3}
+  m_Name: Question 13
+  m_EditorClassIdentifier: 
+  questionText: What should be done if the glass tube does not break upon applying
+    pressure near the scratch?
+  referenceImage: {fileID: 0}
+  explanationText: If the glass tube does not break, we must make a deeper scratch
+    at the marked point. After this, we can make a fresh attempt to break the tube.
+  options:
+  - Apply heat to break the tube
+  - Make the scratch deeper and apply pressure again
+  - Attempt to make a scratch at another point
+  - Abort the experiment
+  correctOptionIndex: 1
